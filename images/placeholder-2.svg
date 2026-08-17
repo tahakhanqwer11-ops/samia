@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="p2" x1="0" x2="1"><stop offset="0%" stop-color="#00d4ff"/><stop offset="100%" stop-color="#7b61ff"/></linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#071027"/>
+  <rect x="60" y="120" width="1080" height="560" rx="20" fill="url(#p2)" opacity="0.12"/>
+  <text x="120" y="240" fill="#d7ecff" font-family="Inter, Arial" font-size="48">Business Website</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520">
+  <defs><linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#ff7bb6"/><stop offset="1" stop-color="#7b61ff"/></linearGradient></defs>
+  <rect width="100%" height="100%" rx="12" fill="url(#a)"/>
+  <text x="24" y="48" fill="#081029" font-size="28" font-family="Inter">Business Website</text>
+</svg>

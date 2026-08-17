@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240" height="60" viewBox="0 0 240 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Build Flow logo">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7b61ff"/>
+      <stop offset="50%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#ff6b6b"/>
+    </linearGradient>
+  </defs>
+  <rect rx="10" width="240" height="60" fill="none" />
+  <g transform="translate(8,6)">
+    <circle cx="24" cy="24" r="22" fill="url(#g1)" opacity="0.95"/>
+    <text x="24" y="31" text-anchor="middle" font-family="Inter, Arial" font-weight="700" font-size="20" fill="#081029">BF</text>
+  </g>
+  <text x="70" y="36" font-family="Inter, Arial" font-weight="700" font-size="20" fill="#e6eef8">Build Flow</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7b61ff"/>
+      <stop offset="100%" stop-color="#00d4ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="220" height="48" rx="10" fill="none"/>
+  <g fill="url(#g)" font-family="Inter, sans-serif" font-weight="700">
+    <text x="8" y="32" font-size="20">Build</text>
+    <text x="92" y="32" font-size="20">Flow</text>
+  </g>
+</svg>
